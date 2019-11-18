@@ -1,0 +1,77 @@
+/*
+Cor do tema: #0070c0
+Cor clara do tema: #0ff
+Cor contraste etapa: #099
+*/
+
+*
+{
+	color: #000;
+}
+
+a
+{
+	color: #0070c0;
+}
+
+fieldset > legend
+{
+    color: #0070C0;
+    border-bottom-color: #0070C0;
+}
+
+.padronizarCabecalhoGrid,
+.informacaoUnidade
+{
+	color: #0070C0;
+}
+
+#dadosUsuarioDiv,
+#menuDiv > a > span
+{
+    background-color: #0070C0;
+}
+
+.dialogo > .tituloDialogo,
+#editar_formula > .tituloDialogo
+{
+	background-color: #0070c0;
+}
+
+#conteudoAvisosDiv > div > span,
+#lancamentoFrequenciaDiv > .menu > div > span
+{
+	color: #0070c0;
+}
+
+.tituloCollapsiblePanelExtender
+{
+	background-color: #0070c0;
+}
+
+.transparent-icon
+{
+	background-color: #0070c0;
+}
+
+input[type='text']:focus,
+input[type='password']:focus,
+input[type='file']:focus,
+.select:focus,
+textarea:focus
+{
+	border-color: #0070c0;
+}
+
+#dadosUsuarioDiv a:hover,
+#menuDiv > a > span.selecionado,
+#menuDiv > a:hover *
+{
+    color: #0ff;
+}
+
+#preMatriculaDiv > .menu .etapaHabilitadaCadastro .descricaoEtapa,
+#preMatriculaDiv > .menu .etapaHabilitada .descricaoEtapa
+{
+    color: #099;
+}
